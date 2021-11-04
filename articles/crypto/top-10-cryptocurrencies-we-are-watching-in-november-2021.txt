@@ -1,0 +1,41 @@
+There's no easy way anymore, when it comes to picking a cryptocurrency to invest in. It gets so confusing, especially if you're a starter, because there are literally thousands of different cryptocurrencies, and tokens available. Which one is legit, which one is a scam? Well, there are some key factors you can look into, when deciding if a crypto project is a scam or not. But first, let's have a look at our top 10 cryptocurrencies we are paying attention to in November 2021.
+
+1. Bitcoin (BTC)
+* Market cap: Over $1.17 Trillion
+Created in 2009 by an anonymous person, under the nickname "Satoshi Nakamoto", Bitcoin (BTC) is the original crypto. Bitcoin, like most other cryptocurrencies, runs on a distribution system of computers, called a "blockchain". This "blockchain" is the entire banking system of the crypto; it validates transactions automatically, so that people are not needed anymore to do it manually, like in a traditional banking system, it keeps the record of your ongoing transactions, your current balance in your wallet. You can also contribute making it more secure, by mining. Bitcoin mining basically is a device, that is connected to the network and becomes part of it. All it does, is help process transactions, all for a small fee. That fee is yours to keep. This blockchain is what's exciting about Bitcoin and crypto in general, because it's a secure, and automated system, which manages to keep fraudsters away.
+Bitcoin's price has skyrocketed as its popularity grew. Five years before this day, you could've bought Bitcoin for about $500. Today, though, a single Bitcoin is worth over $62000. That's a growth of about 12300%, in five years.
+2. Ethereum (ETH)
+* Market cap: Over $520 Billion
+This one is a bit more complex, but it's more interesting because of that. Why, you ask? well, Ethereum is both a cryptocurrency and a blockchain platform. It provides to developers a concept of smart contracts, which then can be used for applications. Well, we have a specific term for the decentralized apps, we call them "dapps", for short. If you ever heard of NFTs, or non-fungible tokens, those are, in fact, using this mechanism.
+Ethereum has seen also extreme growth over the years. Comparing to Bitcoin, it's price went from $11 USD to over $4400, in the last five years, a growth of almost 40000%
+3. Binance Coin (BNB)
+* Market cap: Over $88 Billion
+The Binance Coin is a cryptocurrency that you might have used without knowing, if you ever traded on Binance, one of the (if not the) biggest crypto exchanges in the world. This coin can be either traded, or it is used to pay fees on the Binance platform.
+Ever since its debut in 2017, Binance Coin has seen big expansions. It is now used for trading, payment processing or even booking travel arrangements. You can even create your own cryptocurrency, using the Binance Smart Chain, and you'll have to use Binance Coin in order to provide liquidity.
+From 2017 until now, Binance Coin has seen a 530000% growth, from $0.10 to over $530.
+4. Tether (USDT)
+* Market cap: Over $70 Billion
+Unlike other cryptocurrencies, Tether is  what we call, a "stablecoin". That means, it is backed by fiat currencies like U.S. dollars and the Euro, and, in theory, it keeps a value equal to this denominations. Hypothetically, this means Tether's value is consistent, than other cryptocurrencies, and thus, it's preferred by investors who are scared about the extreme fluctuation of other crypto coins.
+5. Cardano (ADA)
+* Market cap: Over $66 billion
+This one has a bit of an interesting story, as well. Although it started a bit late in the crypto space, Cardano is noticeable for its proof-of-stake validation mechanism. This validation mechanism, unlike the Bitcoin's and Ethereum's proof-of-work mechanism, decreases energy usage, and thus, the impact over the environment by removing the mining process. Cardano also has the smart contract capability that Ethereum has, for decentralized applications, and are powered by ADA, the native coin of Cardano.
+Cardano's ADA has seen modest growth, compared to the others, in 2017, ADA's price was about $0.02, but in 2021, the price is about $2.01 for 1 ADA. In percentages, that's an increase of almost 10000%.
+6. Solana (SOL)
+* Market cap: Over $60 Billion
+Welcome to the decentralized finance (DeFi) world! Using decentralized apps (DApps) and smart contracts, Solana has come with a new hybrid concept of both proof-of-stake and proof-of-history mechanisms, that prove transactions happened quickly and securely. The native token of Solana is called SOL.
+Ever since its beginning in 2020, SOL's price was about $0.77, but by 2021, the price got to almost $201. A growth of about 26000%.
+7. XRP (XRP)
+* Market cap: Over $50 billion
+Create by some of the same founding people of Ripple, a digital and payment processing company, XRP can be used on the Ripple network to facilitate exchanges of different currency types, including normal currencies like USD or EUR, but major cryptocurrencies, too.
+In 2017, XRP started by having a price of $0.006. Fast forward into 2021, the price got to $1.08, resulting a rise of 17900%.
+8. Polkadot (DOT)
+* Market cap: Over $43 Billion
+Cryptocurrencies may use a number of blockchains, but Polkadot wishes to integrate all of them, by creating a network of cryptocurrencies that connects to all kinds of blockchains so that they can all work together. This concept may change how cryptocurrencies are managed and because of it, the growth since 2020 till 2021 was from $2.93 to $44.19, about 1400%.
+9. Shiba Inu (SHIB)
+* Market Cap: Over $41 Billion
+Started in the mid 2020, Shiba Inu is what crypto enthusiasts call a "meme" coin. Shiba Inu runs, underneath, on the Ethereum network. The initial price of SHIB was $0.0.0000000014 and today it still trades below a cent, but has risen immensely, to $0.00007567, a growth of 5,400,000%.
+10. Dogecoin (DOGE)
+* Market Cap: Over $38 Billion
+Dogecoin is another "meme" coin, but thanks to celebrities and billionaires like Elon Musk, it has gained a lot of popularity and value. Started as a joke in 2013, Dogecoin rapidly became popular thanks to its dedicated community and creative memes. Another interesting fact about Dogecoin is that there's an infinite supply of it, but that exposes the coin to susceptible devaluation as supply increases. There are petitions signed by Dogecoin fans to make the supply limited, so that the value will increase, but that decision remains up to the Dogecoin developers to take.
+Nevertheless, Dogecoin's price from 2017 to 2021 has seen a  145000% increase, from $0.0002 to $0.29.
+If you decide to invest in any of these cryptocurrencies, please make your due diligence and research. Reading articles like this one is a great start, but not enough. Also, be responsible while investing, and don't invest money you can't lose.
