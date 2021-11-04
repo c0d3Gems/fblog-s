@@ -43,4 +43,8 @@
         <loc>https://finservio.com/sitemap.xml</loc>
         <changefreq>daily</changefreq>
     </url>
+    <url>
+        <loc>https://finservio.com/stocks/how-does-the-stock-market-work</loc>
+        <changefreq>daily</changefreq>
+    </url>
 </urlset>
