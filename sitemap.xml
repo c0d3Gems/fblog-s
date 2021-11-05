@@ -47,4 +47,8 @@
         <loc>https://finservio.com/stocks/how-does-the-stock-market-work</loc>
         <changefreq>daily</changefreq>
     </url>
+    <url>
+        <loc>https://finservio.com/finance/10-choices-for-financing-your-company</loc>
+        <changefreq>daily</changefreq>
+    </url>
 </urlset>
