@@ -51,4 +51,8 @@
         <loc>https://finservio.com/finance/10-choices-for-financing-your-company</loc>
         <changefreq>daily</changefreq>
     </url>
+    <url>
+        <loc>https://finservio.com/stocks/stock-market-today-11-10-2021</loc>
+        <changefreq>daily</changefreq>
+    </url>
 </urlset>
